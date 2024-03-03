@@ -2,6 +2,6 @@
 int main(void)
 {
   printf("Hi!\n");
-  printf("Bye!\n");
+  printf("for test!\n");
   return 0;
 }
